@@ -1,0 +1,30 @@
+:root {
+    --white: #F5F9E9;
+    --black: #2c2c2c;
+    --blue: #48ACF0;
+    --green: #5FBB97;
+}
+
+body {
+    font-family: 'DejaVu Sans', sans-serif;
+    color: var(--white);
+    background-color: var(--black);
+    margin: 10%;
+    line-height: 1.8;
+}
+
+h1 {
+    color: var(--blue);
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--green);
+}
+
+a:hover {
+    color: var(--white);
+}
+
+
