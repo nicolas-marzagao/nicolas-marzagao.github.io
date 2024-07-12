@@ -18,6 +18,10 @@ h1 {
     font-size: 40px;
 }
 
+#top_links {
+    margin: 5%;
+}
+
 a {
     text-decoration: none;
     color: var(--green);
